@@ -1,7 +1,13 @@
 -------------LET VAR CONST----------------------
 https://www.youtube.com/watch?v=BNC6slYCj50
 https://www.youtube.com/watch?v=YKvoSoA9CPw
+https://www.tutorialspoint.com/difference-between-var-and-let-in-javascript
 What are window objects (9:35)
 Diffrence B/w refrence syntax and type error ?
 
---------------CALLBACKS----------------------------
+--------------------CALLBACKS----------------------
+https://www.youtube.com/watch?v=btj35dh3_U8
+https://www.youtube.com/watch?v=zrvpCtlsRpk
+how to use debugger while using CALLBACKS
+
+--------------------Promises------------------------
