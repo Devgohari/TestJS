@@ -1,0 +1,7 @@
+-------------LET VAR CONST----------------------
+https://www.youtube.com/watch?v=BNC6slYCj50
+https://www.youtube.com/watch?v=YKvoSoA9CPw
+What are window objects (9:35)
+Diffrence B/w refrence syntax and type error ?
+
+--------------CALLBACKS----------------------------
