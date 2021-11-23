@@ -11,3 +11,10 @@ https://www.youtube.com/watch?v=zrvpCtlsRpk
 how to use debugger while using CALLBACKS
 
 --------------------Promises------------------------
+
+
+
+
+
+
+--------------------eventLoop------------------------

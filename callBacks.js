@@ -11,5 +11,4 @@ x(function y() {
 })
 function trial() {
     let count = 0
-    
 }
