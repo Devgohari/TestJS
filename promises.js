@@ -1,21 +1,23 @@
 console.log('promises');
-function fun1() {
+function fun1(cb1, cb2) {
     return new Promise(function(resolve, reject) {
         setTimeout(() => {
             const error = true;
-            if (error) {   
+            if (!error) {   
                 console.log('PROMISE RESOLVED');
-                resolve()
+                cb1()
             }
             else{
                 console.log('PROMISE Rejected');
-                reject()
+                cb2()
             }
         }, 2000);
     })
 }
-fun1().then(function() {
+function cb1() {
     console.log("PROMISE HAS BEEN RESOLVEd");
-}).catch(function() {
-    console.log('PROMISE HAS BEEN Rejected');
-})
+}
+function cb2() {
+    console.log("PROMISE HAS BEEN REJECT");
+}
+fun1(cb1, cb2)

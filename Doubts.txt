@@ -12,7 +12,7 @@ how to use debugger while using CALLBACKS
 
 --------------------Promises------------------------
 https://www.youtube.com/watch?v=2IPw-mWe10U&t=2s
-
+How to replace CALLBACKS functions to PROMISES
 
 
 
@@ -21,3 +21,4 @@ https://www.youtube.com/watch?v=2IPw-mWe10U&t=2s
 what are microsack queue
 when does microstack queue and CALLBACKS queue gets queued before excuting the
 function or after excuting?
+https://dev.to/namitmalasi/how-javascript-code-is-executed-5km
